@@ -1,15 +1,14 @@
 {
 	"schemaVersion": 1,
 	"id": "worldgen-utils",
-	"version": "${version}",
+	"version": "0.1",
 	"name": "Worldgen Utils",
 	"description": "A library of utilities for world generation datapacks.",
 	"authors": [
 		"Apollo"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/ApolloDatapacks/tectonic/"
 	},
 	"license": "ARR",
 	"icon": "assets/worldgen-utils/icon.png",
