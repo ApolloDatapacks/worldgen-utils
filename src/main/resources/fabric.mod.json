@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "worldgen.utils.WorldgenUtilsMod"
+			"worldgen.utils.WorldgenUtilsMod"
 		]
 	},
 	"mixins": [],
@@ -28,6 +28,9 @@
 	},
 	"custom": {
 		"modmenu": {
-			"badges": [ "library" ]
+			"badges": [
+				"library"
+			]
+		}
 	}
 }
