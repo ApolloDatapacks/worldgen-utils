@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "worldgen-utils",
+	"version": "${version}",
+	"name": "Worldgen Utils",
+	"description": "A library of utilities for world generation datapacks.",
+	"authors": [
+		"Apollo"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "ARR",
+	"icon": "assets/worldgen-utils/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "worldgen.utils.WorldgenUtilsMod"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.14.12",
+		"minecraft": "~1.19.3",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"badges": [ "library" ]
+	}
+}
