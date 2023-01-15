@@ -10,7 +10,7 @@
 	"contact": {
 		"sources": "https://github.com/ApolloDatapacks/tectonic/"
 	},
-	"license": "ARR",
+	"license": "MIT",
 	"icon": "assets/worldgen-utils/icon.png",
 	"environment": "*",
 	"entrypoints": {
